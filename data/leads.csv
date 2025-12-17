@@ -1,0 +1,11 @@
+name,title,company,company_funding,location,hub_location,published_recent_paper,keywords_match,uses_similar_tech
+Alice Brown,Director of Toxicology,BioGenix,Series B,Boston,Yes,Yes,Yes,Yes
+John Smith,Senior Scientist,HealthCore,Seed,Texas,No,No,Yes,No
+Maria Lopez,Head of Safety Assessment,NeoThera,Series A,Cambridge,Yes,Yes,Yes,Yes
+David Chen,Research Scientist,SmallBio,None,San Diego,No,No,No,No
+Emma Wilson,VP Preclinical Safety,LifeSciencesX,Series B,Basel,Yes,Yes,Yes,Yes
+Rahul Mehta,Junior Scientist,EarlyBio,Seed,Bangalore,No,No,Yes,No
+Sophia Müller,Director of Hepatic Research,HepaTech,Series A,Berlin,Yes,Yes,Yes,Yes
+Mark Taylor,Postdoc Researcher,University Lab,None,London,No,Yes,Yes,No
+Ananya Gupta,Principal Scientist,DrugNova,Series B,Cambridge,Yes,Yes,Yes,Yes
+Tom Anderson,Lab Technician,TestLabs,None,Ohio,No,No,No,No
